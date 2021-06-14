@@ -25,5 +25,22 @@
 // console.log("a is " + a);
 // console.log("b is " + b);
 
+// alert("hello " + " world!");
+
+// var msg="Good Afternoon";
+// var name="Nidhi"
+// alert(msg + " " + name);
+
+// name = "Nidhi";
+// name.length;
+
+// Small exersise to find how many character are written and how many characters are left!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+// var tweet = prompt("write your tweet here");
+//  tweet.slice(0,120)
+// alert("you have writter " + tweet.length + " characters and " + (120-tweet.length) + " character is left!");
+
+// var name = "NIdhi"
+// name.slice(0,4)
+
 
 
