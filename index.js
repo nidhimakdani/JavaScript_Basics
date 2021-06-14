@@ -42,5 +42,10 @@
 // var name = "NIdhi"
 // name.slice(0,4)
 
+// var name = prompt("Enter Your Name");
+// var p1 = name.slice(0,1).toUpperCase();
+// var p2 = name.slice(1,name.length).toLowerCase();
+// alert("Hey " + p1+p2 + " Good Evening!");
+
 
 
