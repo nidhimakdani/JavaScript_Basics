@@ -1,6 +1,6 @@
 //author @nidhimakdani
 
-//undo comment of a section yopu want to run (recomended : Consol(browser))
+//undo comment of a section you want to run (recomended : Consol(browser))
 
 //.....................
 
