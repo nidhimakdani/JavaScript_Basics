@@ -119,8 +119,6 @@ arr.forEach(function(element) {
 // var arr=[1,2,3,4]
 // console.log(arr)
 
-//.....................
-
 //Operators
 /*
 1.Arithmetic
@@ -128,7 +126,6 @@ arr.forEach(function(element) {
 3.Comparison
 4.Logical Operators (or and logical or(true false false true))
 */
-
 
 //Function
 // function avg(a,b){
@@ -138,8 +135,6 @@ arr.forEach(function(element) {
 // c1= avg(88,45);
 // console.log(c1,c2);
 //DRY : DO NOT REPEAT YOURSELF
-
-//.....................
 
 // var age = 12;
 // if(age>18){
