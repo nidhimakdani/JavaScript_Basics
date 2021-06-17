@@ -152,8 +152,77 @@ arr.forEach(function(element) {
 // console.log(myDate.GetMinutes());
 
 
+//using DOM we can change and formate elements by targeting them
+// let elem = document.getElementById('click');
+// console.log(elem);
+
+
+// let elemc = document.getElementByClassName('container');
+// console.log(elemc);
+
+
+// //there are more methods google it
+// ....................................
+// events in javascript
+// function clicked()
+// {
+//  alert("button was clicked");
+// }
+// window.onload = function(){
+//      alert("document loaded");
+    
+// }
+// newcon.addEventListener('click',function(){ //event,function
+//     alert("Clicked on container ");
+// })
+// newcon.addEventListener('mouseover',function(){ //event,function
+//     alert("Mouse on container "); //mouseout is also there
+// })
+// mouseup
+// mousedown more...
+
+// newcon.addEventListener('mouseover',function(){ 
+//         document.querySelectorAll('.newcon2')[1].innerHTML =
+//          "<b>We have clicked</b>"
+// })
+
+//SetTimeOut and SetInterval
+// Arrow  ??SHORT FUNCTIONN
+// sum = (a,b)=>{
+//     return a+b;
+// }
+// ylog = ()=>{
+//     console.log("I'M LOG")
+// }
+// setTimeout(ylog, 2000)
+// setInterval(ylog, 2000)
+// clr = setInterval(ylog, 2000)
+
+//Local Storage 
+//Data store in user's space 
+// localStorage.setItem("Name","Nidhi")
+// localStorage
+// localStorage.clear()
+// localStorage.getItem('name')
+// localStorage.removeItem('name')
+// localStorage.clear()
+
+//JSON
+// obj = {name:"Nidhi",length:1}
+// jso = JSON.stringify(obj);
+// console.log(jso)
+// pr = JSON.parse('{"name":"Nidhi"}')
+// console.log(pr)
+
+//ECMA script
+// to maintain java script https://en.wikipedia.org/wiki/Ecma_International
+
+// Templete Literals [Backticks]
+// a=45;
+// console.log(`Number is ${a}`);
+
 //-----------------------------------------------
-//Basics are Completed 
+//DONE
 //Happy Learning
-//Now Go For DOM and EVENTS
+
 
